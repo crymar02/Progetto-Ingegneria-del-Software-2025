@@ -1,0 +1,2 @@
+/Users/d4rklinux/Desktop/D4rKLiNuX/Developer/Github/Ing_SW-DietiEstates2025/dietiestates2025/android/app/.cxx/Debug/4f2o2d3j/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/d4rklinux/Desktop/D4rKLiNuX/Developer/Github/Ing_SW-DietiEstates2025/dietiestates2025/android/app/.cxx/Debug/4f2o2d3j/armeabi-v7a/CMakeFiles/rebuild_cache.dir

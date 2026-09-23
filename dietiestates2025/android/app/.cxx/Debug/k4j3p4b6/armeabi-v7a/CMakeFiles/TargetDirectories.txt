@@ -1,0 +1,2 @@
+C:/Users/Samsung/Desktop/UNI/Terzo anno/Ingegneria del software/Progetto/GitHub/Ing_SW-DietiEstates2025/dietiestates2025/android/app/.cxx/Debug/k4j3p4b6/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Samsung/Desktop/UNI/Terzo anno/Ingegneria del software/Progetto/GitHub/Ing_SW-DietiEstates2025/dietiestates2025/android/app/.cxx/Debug/k4j3p4b6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
